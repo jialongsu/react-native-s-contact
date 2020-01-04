@@ -1,0 +1,38 @@
+{
+  "name": "react-native-s-contact",
+  "version": "1.0.2",
+  "description": "react-native-s-contact 选择联系人组件，支持 react native 0.60.0+ , Android + iOS, 从react-native-contacts-wrapper修改而来",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1035901787/react-native-s-contact.git",
+    "baseUrl": "https://github.com/1035901787/react-native-s-contact"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "files": [
+    "react-native-s-contact.podspec",
+    "android",
+    "ios",
+    "index.js"
+  ],
+  "author": {
+    "name": "arno",
+    "email": "1035901787@qq.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
