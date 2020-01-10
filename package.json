@@ -1,8 +1,9 @@
 {
   "name": "react-native-s-contact",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "react-native-s-contact 选择联系人组件，支持 react native 0.60.0+ , Android + iOS, 从react-native-contacts-wrapper修改而来",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,7 @@
     "react-native-s-contact.podspec",
     "android",
     "ios",
+    "index.d.ts",
     "index.js"
   ],
   "author": {
