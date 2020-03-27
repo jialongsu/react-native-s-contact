@@ -4374,6 +4374,10 @@ react-native-reanimated@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.4.0.tgz#7f1acbf9be08492d834f512700570978052be2f9"
 
+react-native-s-alipay@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-s-alipay/-/react-native-s-alipay-1.0.6.tgz#312dc5b9c7d259f820f36cee53e4a761d76363fe"
+
 react-native-s-baidumap@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/react-native-s-baidumap/-/react-native-s-baidumap-1.1.1.tgz#605a31a84e3ba12217a923c5ad9034e04da9c450"
